@@ -8,5 +8,13 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": ""
+  "description": "aaaa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://frontdigger@github.com/frontdigger/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frontdigger/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/frontdigger/react-boilerplate#readme"
 }
